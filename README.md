@@ -11,8 +11,8 @@ Check out my Data Science Portfolio consisting of my Case Studies with Codes, Pa
 - 😄 Pronouns: Hi/himm
 - ⚡ Fun fact: I am half finish
 
-#The quote I live by:
-As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.
+# The quote I live by:
+<As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.>
 — Carl G. Jung; Memories, Dreams, Reflections (1962) ch. 11
 
 
