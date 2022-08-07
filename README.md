@@ -30,9 +30,4 @@ My country is the earth and I am a citizen of the world.
 
 
 <!--  
-**pabloolmo/pabloolmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 -->
