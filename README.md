@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong background in Mathematics, Physics, and Computer Science. I completed Master in Data Science at Cardiff University, with majors in Machine Learning and Computational Physics and Bacherlor in Theoretical Physics at Complutene University of Madrid, with majors in Data Analysis and Statistics.
+I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong background in Mathematics, Physics, and Computer Science. I completed my Master's degree in Data Science at Cardiff University, with majors in Machine Learning and Computational Physics and my Bacherlor's degree in Theoretical Physics at Complutene University of Madrid, with majors in Data Analysis and Statistics.
 Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos!
 
 - 🌍 I am from Madrid,Spain 
