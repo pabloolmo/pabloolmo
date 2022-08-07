@@ -2,13 +2,15 @@
 
 I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong background in Mathematics, Physics, and Computer Science. I completed my Master's degree in Data Science at Cardiff University, with majors in Machine Learning and Computational Physics and my Bacherlor's degree in Theoretical Physics at Complutene University of Madrid, with majors in Data Analysis and Statistics.
 Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos!
-
+  
 - 🌍 I am from Madrid,Spain 
+- ✉️ Contact me at pablo@westlifecentral.com
 - 🔭 I’m currently working in a Consulting firm
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Crypto Arbitrage KCS & Co
 - 😄 Pronouns: Hi/him
 - ⚡ Fun fact: I am half finish
+
 
 
 ## The quote I live by
