@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+
 I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong background in Mathematics, Physics, and Computer Science. I completed Master in Data Science at Cardiff University, with majors in Machine Learning and Computational Physics and Bacherlor in Theoretical Physics at Complutene University of Madrid, with majors in Data Analysis and Statistics.
 Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos!
 
@@ -9,6 +10,7 @@ Check out my Data Science Portfolio consisting of my Case Studies with Codes, Pa
 - 👯 I’m looking to collaborate on Crypto Arbitrage KCS & Co
 - 😄 Pronouns: Hi/himm
 - ⚡ Fun fact: I am half finish
+
 
 ## The quote I live by:
 <blockquote>
@@ -23,7 +25,7 @@ My country is the earth and I am a citizen of the world.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pabloolmo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pabloolmo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+![](https://github-readme-stats.vercel.app/api/top-langs/?)
 
 
 <!--
