@@ -3,17 +3,16 @@
 I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong background in Mathematics, Physics, and Computer Science. I completed Master in Data Science at Cardiff University, with majors in Machine Learning and Computational Physics and Bacherlor in Theoretical Physics at Complutene University of Madrid, with majors in Data Analysis and Statistics.
 Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos!
 
-
-- 🔭 I’m currently working on MS-Business Consultant
+- 🌍 I am from Madrid,Spain 
+- 🔭 I’m currently working in a Consulting firm
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Crypto Arbitrage KCS & Co
-- 🤔 I’m looking for help with Front End Development & Graphic Design
 - 😄 Pronouns: Hi/himm
 - ⚡ Fun fact: I am half finish
 
 ## The quote I live by:
 <blockquote>
-As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.
+My country is the earth and I am a citizen of the world.
 </blockquote>
 — Carl G. Jung; Memories, Dreams, Reflections (1962) ch. 11
 
