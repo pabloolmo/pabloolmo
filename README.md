@@ -7,7 +7,7 @@ Check out my Data Science Portfolio consisting of my Case Studies with Codes, Pa
 - 🔭 I’m currently working in a Consulting firm
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Crypto Arbitrage KCS & Co
-- 😄 Pronouns: Hi/himm
+- 😄 Pronouns: Hi/him
 - ⚡ Fun fact: I am half finish
 
 
