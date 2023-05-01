@@ -4,7 +4,7 @@ I'm Pablo Del Olmo, Data Scientist and Quantitative Analyst with strong backgrou
 Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos!
   
 - 🌍 I am from Madrid,Spain 
-- ✉️ Contact me at pablo@westlifecentral.com
+- ✉️ Contact me at pablo@pabloolmo.es
 - 🔭 I’m currently working in a Consulting firm
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Crypto Arbitrage KCS & Co
